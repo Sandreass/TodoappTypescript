@@ -1,9 +1,6 @@
-## Todoapp
-(Vanilla JS → TypeScript)
+## Todoapp (Vanilla JS → TypeScript)
 
 This project is a simple Todo List application that I initially built using Vanilla JavaScript and later migrated to TypeScript. The main objective was to explore TypeScript's features and understand how it improves code quality and development experience.
-
-![Todoapp screenshot](Screenshots/Screenshot1.png) 
 
 
 ## Features
@@ -13,8 +10,6 @@ This project is a simple Todo List application that I initially built using Vani
 - Delete existing todos.
 - Fetch data from a public API to simulate a real-world backend.#
 
-![Todoapp screenshot](Screenshots/Screenshot2.png) 
-
 
 ## Technologies Used
 
@@ -23,4 +18,10 @@ This project is a simple Todo List application that I initially built using Vani
 - **HTML/CSS**: Basic layout and styling.
 - **Fetch API**: To retrieve and send data to the placeholder API.
 
-![Todoapp screenshot](Screenshots/Screenshot3.png) 
+
+
+![Todoapp screenshot](Screenshots/Screenshot1.png) 
+
+
+
+![Todoapp screenshot](Screenshots/Screenshot2.png) 

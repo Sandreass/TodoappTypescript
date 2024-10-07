@@ -1,3 +1,4 @@
+![Todoapp screenshot](Screenshot 1.png)
 Todoapp (Vanilla JS → TypeScript)
 
 This project is a simple Todo List application that I initially built using Vanilla JavaScript and later migrated to TypeScript. The main objective was to explore TypeScript's features and understand how it improves code quality and development experience.
